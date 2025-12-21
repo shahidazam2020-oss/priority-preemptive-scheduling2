@@ -55,3 +55,16 @@ Lower-priority processes experience longer waiting times.
 Preemptive priority scheduling can lead to starvation for low-priority tasks.
 ## Repository Links
 https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2.git
+## Add Result Screenshot 
+/images/result.png
+
+git add images/result.png
+git commit -m "Add program output screenshot"
+git push
+
+## Program Output Screenshot
+
+![Program Output](images/result.png)
+
+*This screenshot shows the result of running the Preemptive Priority Scheduling program with two processes. It includes calculated metrics such as Completion Time (CT), Turnaround Time (TAT), and Waiting Time (WT), along with average waiting and turnaround times.*
+
