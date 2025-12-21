@@ -56,14 +56,11 @@ Preemptive priority scheduling can lead to starvation for low-priority tasks.
 ## Repository Links
 https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2.git
 ## Add Result Screenshot 
-C:\Users\dell\OneDrive\Desktop\project - Copy
-project-root/
-   ├── README.md
-   ├── images/
-       └── Capture-2.png
+
 git add images/Capture-2.png
 git commit -m "Add program output screenshot"
 git push
+
 
 
 ## Program Output Screenshot
