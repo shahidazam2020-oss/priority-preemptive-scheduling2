@@ -42,13 +42,13 @@ Computing scheduling metrics after all processes complete.
 | P5      | 8      | 1      | 5      | 27     | 19      | 18     |
 
 ## How to Run
-1. Clone the repository:
+1. Clone the repository:<br>
     git clone https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2.git
 
-2. Navigate to the project directory:
+2. Navigate to the project directory:<br>
     cd priority-preemptive-scheduling2
    
-3. Run the Python script:
+3. Run the Python script:<br>
     python priority_preemptive.py
    
 4. Enter the number of processes and their details when prompted.
