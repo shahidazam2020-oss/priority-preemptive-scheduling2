@@ -56,15 +56,18 @@ Preemptive priority scheduling can lead to starvation for low-priority tasks.
 ## Repository Links
 https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2.git
 ## Add Result Screenshot 
-\Users\dell\OneDrive\Desktop\project - Copy
-
-git add \Users\dell\OneDrive\Desktop\project - Copy
+C:\Users\dell\OneDrive\Desktop\project - Copy
+project-root/
+   ├── README.md
+   ├── images/
+       └── Capture-2.png
+git add images/Capture-2.png
 git commit -m "Add program output screenshot"
 git push
 
+
 ## Program Output Screenshot
+![Program Output](images/Capture-2.png)
 
-![Program Output](\Users\dell\OneDrive\Desktop\project - Copy)
-
-*This screenshot shows the result of running the Preemptive Priority Scheduling program with two processes. It includes calculated metrics such as Completion Time (CT), Turnaround Time (TAT), and Waiting Time (WT), along with average waiting and turnaround times.*
+*This screenshot shows the result of running the Preemptive Priority Scheduling program. It displays process details, calculated metrics (CT, TAT, WT), and average waiting and turnaround times.*
 
