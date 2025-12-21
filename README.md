@@ -21,20 +21,26 @@ Preemptive Priority Scheduling works by:
 Assigning each process a priority (lower number = higher priority).
 Continuously checking for arriving processes and preempting the current process if a higher-priority process arrives.
 Computing scheduling metrics after all processes complete.
+
 ## Sample Input
-PID   Arrival TimeBurstTime   Priority
-P1       0        10             3
-P2       2        5              1
-P3       4        3              4
-P4       6        8              2
-P5       8        1              5
+| **PID** | **Arrival Time (AT)** | **Burst Time (BT)** | **Priority** |
+|---------|------------------------|----------------------|--------------|
+| P1      | 0                      | 10                   | 3            |
+| P2      | 2                      | 5                    | 1            |
+| P3      | 4                      | 3                    | 4            |
+| P4      | 6                      | 8                    | 2            |
+| P5      | 8                      | 1                    | 5            |
+
+
 ## Results
-PID      AT       BT
-p1       0        10
-p2       2        5
-p3       4        3
-p4       6        8
-p5       8        1
+| **PID** | **AT** | **BT** | **PR** | **CT** | **TAT** | **WT** |
+|---------|--------|--------|--------|--------|---------|--------|
+| P1      | 0      | 10     | 3      | 23     | 23      | 13     |
+| P2      | 2      | 5      | 1      | 7      | 5       | 0      |
+| P3      | 4      | 3      | 4      | 26     | 22      | 19     |
+| P4      | 6      | 8      | 2      | 15     | 9       | 1      |
+| P5      | 8      | 1      | 5      | 27     | 19      | 18     |
+
 ## How to Run
 1. Clone the repository:
    1 git clone https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2.git
