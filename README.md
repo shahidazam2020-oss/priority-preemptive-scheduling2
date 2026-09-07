@@ -338,6 +338,8 @@ Operating Systems
 
 **Email shahidazam2020@gmail.com**
 
+**LinkedIn https://www.linkedin.com/in/shahid-azam-mughal-787b58235**
+
 GitHub:
 https://github.com/shahidazam2020-oss
 
