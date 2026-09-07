@@ -340,6 +340,8 @@ Operating Systems
 
 **LinkedIn https://www.linkedin.com/in/shahid-azam-mughal-787b58235**
 
+**Instagram https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj**
+
 GitHub:
 https://github.com/shahidazam2020-oss
 
