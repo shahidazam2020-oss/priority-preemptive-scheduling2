@@ -349,7 +349,7 @@ You are welcome to study, modify, and improve the implementation for learning pu
 
 ---
 
-## ⭐ Support
+# ⭐ Support
 
 If you find this project useful for learning **Operating Systems and CPU Scheduling**, consider giving the repository a ⭐ on GitHub.
 
