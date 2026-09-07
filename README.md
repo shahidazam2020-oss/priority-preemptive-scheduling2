@@ -335,6 +335,7 @@ Operating Systems
 ## Shahid Azam
 
 **MS Computer Science | Python | Data Science | Machine Learning**
+
 **Email shahidazam2020@gmail.com**
 
 GitHub:
