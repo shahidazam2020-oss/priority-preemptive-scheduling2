@@ -336,11 +336,20 @@ Operating Systems
 
 **MS Computer Science | Python | Data Science | Machine Learning**
 
-**Email shahidazam2020@gmail.com**
+## 📬 Connect With Me
 
-**LinkedIn https://www.linkedin.com/in/shahid-azam-mughal-787b58235**
+<p align="center">
+  <a href="mailto:shahidazam2020@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-**Instagram https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj**
 
 GitHub:
 https://github.com/shahidazam2020-oss
