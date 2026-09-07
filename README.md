@@ -51,7 +51,7 @@ The algorithm follows these main steps:
 8. Calculate the scheduling performance metrics.
 9. Display the final scheduling results.
 
-### Priority Rule
+## Priority Rule
 
 | Priority Value | Meaning          |
 | -------------- | ---------------- |
