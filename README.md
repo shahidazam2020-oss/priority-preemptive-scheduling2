@@ -332,7 +332,7 @@ Operating Systems
 
 # 👨‍💻 Author
 
-### Shahid Azam
+## Shahid Azam
 
 **MS Computer Science | Python | Data Science | Machine Learning**
 
