@@ -330,7 +330,7 @@ Operating Systems
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 ### Shahid Azam
 
