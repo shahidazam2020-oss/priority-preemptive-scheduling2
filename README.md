@@ -348,6 +348,9 @@ Operating Systems
   <a href="https://www.instagram.com/shahid_uoch?igsi=d2h2czdmNWN1N3lj">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+<a href="https://t.me/shahiduoch">
+    <img src="https://img.shields.io/badge/TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
 </p>
 
 
