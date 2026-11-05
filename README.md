@@ -329,8 +329,8 @@ Operating Systems
 ```
 
 ---
+## 👨‍💻 About the Developer
 
-# 👨‍💻 Author
 
 ## Shahid Azam
 
