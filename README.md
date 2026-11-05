@@ -340,6 +340,7 @@ Institute of Management Sciences, Peshawar, Pakistan
 I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
 
 - 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
+- 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
 
 ## 📬 Connect With Me
 
