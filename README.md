@@ -341,6 +341,7 @@ I enjoy building complete software systems—from networking and operating syste
 
 - 🎓 **Degree / Field:** MS in Computer Science (Specialization in Artificial Intelligence)
 - 🏆 **Achievements:** Designed and executed 30+ machine learning and data visualization projects delivering actionable insights
+- 🎯 **Focus Areas:** Data Visualization, AI/ML, Big Data Mining
 
 ## 📬 Connect With Me
 
