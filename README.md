@@ -336,7 +336,8 @@ Operating Systems
 **MS Computer Science Student**
 **Specialization in Artificial Intelligence**
 
-**MS Computer Science | Python | Data Science | Machine Learning**
+Institute of Management Sciences, Peshawar, Pakistan
+I enjoy building complete software systems—from networking and operating system concepts to backend architecture, machine learning, and distributed systems.
 
 ## 📬 Connect With Me
 
