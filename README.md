@@ -331,8 +331,10 @@ Operating Systems
 ---
 ## 👨‍💻 About the Developer
 
+**Shahid Azam**
 
-## Shahid Azam
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
 
 **MS Computer Science | Python | Data Science | Machine Learning**
 
