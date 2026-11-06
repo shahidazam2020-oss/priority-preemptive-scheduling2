@@ -389,3 +389,5 @@ https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2
 
 Your current repository looks good structurally, but the **README is the biggest missing piece**. Your assignment itself specifically requires a clear README with setup/run instructions, algorithm summary, and design choices. :contentReference[oaicite:7]{index=7}
 I would also recommend adding a **Gantt Chart image** to the README. For this dataset, the sequence is:
+
+**P1 → P2 → P4 → P1 → P3 → P5**
