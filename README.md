@@ -69,7 +69,7 @@ This project is developed for **educational and academic purposes** to demonstra
 
 ### Completion Time (CT)
 
-The time at which a process finishes execution.
+**The time at which a process finishes execution.**
 
 ### Turnaround Time (TAT)
 
