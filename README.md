@@ -280,7 +280,7 @@ Priority
 
 ## 🎯 Learning Objectives
 
-This project helps students understand:
+**This project helps students understand:**
 
 • CPU scheduling fundamentals
 • Process management
