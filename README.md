@@ -274,7 +274,7 @@ Priority
 
 ### Efficient CPU Scheduling
 
-Preemption allows the CPU to respond quickly when an important process arrives.
+**Preemption allows the CPU to respond quickly when an important process arrives.**
 
 ---
 
