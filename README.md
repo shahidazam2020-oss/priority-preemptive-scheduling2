@@ -270,7 +270,7 @@ Priority
 
 ### Starvation
 
-Continuous arrival of high priority processes can cause low priority processes to wait indefinitely.
+**Continuous arrival of high priority processes can cause low priority processes to wait indefinitely.**
 
 ### Efficient CPU Scheduling
 
