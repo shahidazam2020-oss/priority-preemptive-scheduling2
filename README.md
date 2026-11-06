@@ -367,9 +367,6 @@ I enjoy building complete software systems—from networking and operating syste
 </p>
 
 
-GitHub:
-https://github.com/shahidazam2020-oss
-
 ---
 
 ## 📜 License
