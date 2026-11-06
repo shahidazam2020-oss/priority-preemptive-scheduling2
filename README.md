@@ -254,7 +254,7 @@ Burst Time
 Priority
 ```
 
-The program will then simulate the scheduling process and display the calculated results.
+**The program will then simulate the scheduling process and display the calculated results.**
 
 ---
 
