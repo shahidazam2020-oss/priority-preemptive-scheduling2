@@ -262,7 +262,7 @@ Priority
 
 ### Higher Priority Processes
 
-Processes with higher priority can immediately preempt processes with lower priority.
+**Processes with higher priority can immediately preempt processes with lower priority.**
 
 ### Waiting Time
 
