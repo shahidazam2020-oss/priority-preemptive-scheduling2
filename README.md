@@ -129,7 +129,7 @@ The following processes are used to demonstrate the algorithm:
 
 ### 📊 Average Performance
 
-The program also calculates average scheduling performance, including:
+**The program also calculates average scheduling performance, including:**
 
 **Average Waiting Time**
 
