@@ -99,7 +99,7 @@ Where:
 RT = First CPU Start Time − Arrival Time
 ```
 
-Response Time represents how long a process waits before receiving CPU time for the first time.
+**Response Time represents how long a process waits before receiving CPU time for the first time.**
 
 ---
 
