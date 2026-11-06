@@ -295,7 +295,7 @@ Priority
 
 ## 🔮 Future Improvements
 
-Possible improvements for this project include:
+**Possible improvements for this project include:**
 
 • Add a Gantt Chart visualization
 • Add non preemptive priority scheduling
