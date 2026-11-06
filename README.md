@@ -65,7 +65,7 @@ This project is developed for **educational and academic purposes** to demonstra
 
 ## 📊 Scheduling Metrics
 
-The program calculates the following metrics:
+**The program calculates the following metrics:**
 
 ### Completion Time (CT)
 
