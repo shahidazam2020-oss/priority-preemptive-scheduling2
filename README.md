@@ -386,3 +386,5 @@ https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2
 
 ---
 # One important improvement
+
+Your current repository looks good structurally, but the **README is the biggest missing piece**. Your assignment itself specifically requires a clear README with setup/run instructions, algorithm summary, and design choices. :contentReference[oaicite:7]{index=7}
