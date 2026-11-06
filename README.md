@@ -266,7 +266,7 @@ Priority
 
 ### Waiting Time
 
-Low priority processes generally experience longer waiting times.
+**Low priority processes generally experience longer waiting times.**
 
 ### Starvation
 
