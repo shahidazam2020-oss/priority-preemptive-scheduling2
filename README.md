@@ -39,7 +39,7 @@ This project is developed for **educational and academic purposes** to demonstra
 
 ## 🧠 Algorithm
 
-The algorithm follows these main steps:
+**The algorithm follows these main steps:**
 
 1. Read the number of processes.
 2. Enter the Arrival Time, Burst Time, and Priority of each process.
