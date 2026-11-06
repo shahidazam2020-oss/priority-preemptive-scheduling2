@@ -170,7 +170,7 @@ This demonstrates the main concept behind **preemptive priority scheduling**.
 
 One important limitation of priority scheduling is **starvation**.
 
-A low priority process may remain in the ready queue for a very long time if higher priority processes continuously arrive.
+**A low priority process may remain in the ready queue for a very long time if higher priority processes continuously arrive.**
 
 For example:
 
