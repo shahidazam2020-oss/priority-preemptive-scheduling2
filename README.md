@@ -147,7 +147,7 @@ Average TAT = ΣTAT / Number of Processes
 
 ## 🔄 Example Scheduling Behavior
 
-Consider the following situation:
+**Consider the following situation:**
 
 ```text
 Time 0 → P1 starts
