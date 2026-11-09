@@ -388,3 +388,5 @@ https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2
 # ⭐ If You Find This Project Useful
 
 If this project helps you understand machine learning for healthcare prediction, consider:
+
+⭐ **Starring the repository**
