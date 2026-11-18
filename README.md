@@ -1,7 +1,3 @@
-  <a href="https://github.com/shahidazam2020-oss/Libarary-Mangement-System-GCMS/stargazers">
-
-
-# ⚙️ Preemptive Priority CPU Scheduling
 <p align="center">
 <a href="https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/priority-preemptive-scheduling2?style=social&cacheSeconds=60" alt="GitHub Stars">
@@ -13,9 +9,11 @@
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/priority-preemptive-scheduling2?display_timestamp=committer&style=flat-square" alt="Last Commit">
   </a>
 </p>
-A Python implementation of the **Preemptive Priority Scheduling Algorithm**, an important CPU scheduling technique used in Operating Systems. This project simulates process execution, priority based preemption, and calculates essential CPU scheduling performance metrics.
 
 ---
+# ⚙️ Preemptive Priority CPU Scheduling
+
+A Python implementation of the **Preemptive Priority Scheduling Algorithm**, an important CPU scheduling technique used in Operating Systems. This project simulates process execution, priority based preemption, and calculates essential CPU scheduling performance metrics.
 
 ## 📌 Project Overview
 
