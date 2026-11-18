@@ -6,6 +6,9 @@
 <a href="https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2/forks">
     <img src="https://img.shields.io/github/forks/shahidazam2020-oss/priority-preemptive-scheduling2?style=social&cacheSeconds=60" alt="GitHub Forks">
   </a>
+  <a href="https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/priority-preemptive-scheduling2?display_timestamp=committer&style=flat-square" alt="Last Commit">
+  </a>
 A Python implementation of the **Preemptive Priority Scheduling Algorithm**, an important CPU scheduling technique used in Operating Systems. This project simulates process execution, priority based preemption, and calculates essential CPU scheduling performance metrics.
 
 ---
