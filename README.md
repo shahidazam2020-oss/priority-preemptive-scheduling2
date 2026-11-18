@@ -1,5 +1,9 @@
 # ⚙️ Preemptive Priority CPU Scheduling
 
+<a href="https://github.com/shahidazam2020-oss/priority-preemptive-scheduling2/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/priority-preemptive-scheduling2?style=social&cacheSeconds=60" alt="GitHub Stars">
+  </a>
+
 A Python implementation of the **Preemptive Priority Scheduling Algorithm**, an important CPU scheduling technique used in Operating Systems. This project simulates process execution, priority based preemption, and calculates essential CPU scheduling performance metrics.
 
 ---
